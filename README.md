@@ -55,3 +55,13 @@
      <img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" alt="GitHub" align="center" width="35px" height="35px"/>
 </div><br><br>
 <!-- Languages and Tools End -->
+
+
+<!-- Contact Start -->
+<div align="center" valign="middle">
+     <img valign="middle" src="https://media.giphy.com/media/j1LcC8vd7UxxP8uFYr/giphy.gif" width="50px"><b>Reach me at</b><br>
+     <a href="https://www.instagram.com/avdews/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/aya-avdews-25a36b1a6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="mailto:ayaavdews@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><br>
+<!-- Contact End -->
