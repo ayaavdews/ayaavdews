@@ -93,3 +93,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Default Template End -->
+
+
+<!-- 
+  Reference : 
+
+    - github account : 
+        > https://github.com/codeSTACKr
+        > https://github.com/rafaballerini
+        > https://github.com/duribeiro
+    
+    - stats :
+        > https://github.com/anuraghazra/github-readme-stats
+        > https://visitor-badge.glitch.me/#docs
+
+    - Assets : 
+        > https://lottiefiles.com/
+        > https://html5animationtogif.com/MyConversions (convert lootie .json to gif)
+        > https://github.com/devicons/devicon/tree/v2.15.1/icons
+        > https://giphy.com/explore/free-gif
+ -->
