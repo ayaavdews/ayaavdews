@@ -32,7 +32,7 @@
 <!-- Stats End -->
 
 
-<!-- Languages Start -->
+<!-- Languages and Tools Start -->
 <h2 align="center">Languages and Tools</h2>
 <div align="center" style="display: inline_block" valign="top"><br>
      <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" alt="HTML5" align="center" width="40px" height="30px"/>
@@ -46,5 +46,12 @@
      <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg" alt="SASS" align="center" width="40px" height="30px"/>
      <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" align="center" width="40px" height="30px"/>
      <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="CodeIgniter" align="center" width="40px" height="30px"/>
+     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" alt="Visual Studio Code" align="center" width="40px" height="30px"/>
+     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" align="center" width="40px" height="30px"/>
+     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" alt="Intellij" align="center" width="40px" height="30px"/>
+     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/chrome/chrome-original.svg" alt="Chrome" align="center" width="40px" height="30px"/>
+     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" alt="Git" align="center" width="40px" height="30px"/>
+     <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" alt="GitHub" align="center" width="35px" height="35px"/>
+     <img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" alt="GitHub" align="center" width="35px" height="35px"/>
 </div><br><br>
-<!-- Languages End -->
+<!-- Languages and Tools End -->
