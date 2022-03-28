@@ -18,6 +18,8 @@
 
 <!-- Stats Start -->
 <h2 align="center">Github Stats</h2>
+<div align="center">
      <img src="https://github-readme-stats.vercel.app/api?username=ayaavdews&show_icons=true&theme=github_dark&show_owner=true&count_private=true&include_all_commits=true&hide=issues&custom_title=GitHub Stats"/>
+</div>
 </br>
 <!-- Stats End -->
