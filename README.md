@@ -22,4 +22,11 @@
      <img src="https://github-readme-stats.vercel.app/api?username=ayaavdews&show_icons=true&theme=github_dark&show_owner=true&count_private=true&include_all_commits=true&hide=issues&custom_title=GitHub Stats"/>
 </div>
 </br>
+
+<div align="center">
+     <a href="https://github.com/ayaavdews">
+          <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaavdews&langs_count=8&layout=compact&theme=github_dark"/>
+          <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=avdews&theme=github_dark"/>
+     </a>
+</div><br>
 <!-- Stats End -->
