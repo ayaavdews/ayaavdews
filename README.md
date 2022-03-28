@@ -30,3 +30,21 @@
      </a>
 </div><br>
 <!-- Stats End -->
+
+
+<!-- Languages Start -->
+<h2 align="center">Languages and Tools</h2>
+<div align="center" style="display: inline_block" valign="top"><br>
+     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" alt="HTML5" align="center" width="40px" height="30px"/>
+     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" alt="CSS3" align="center" width="40px" height="30px"/>
+     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" alt="JS" align="center" width="40px" height="30px"/>
+     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" alt="PHP" align="center" width="40px" height="30px"/>
+     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" alt="Java" align="center" width="40px" height="30px"/>
+     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg" alt="Kotlin" align="center" width="40px" height="30px"/>
+     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" alt="MySQL" align="center" width="40px" height="30px"/>
+     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jquery/jquery-original.svg" alt="Jquery" align="center" width="40px" height="30px"/>
+     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg" alt="SASS" align="center" width="40px" height="30px"/>
+     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" align="center" width="40px" height="30px"/>
+     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="CodeIgniter" align="center" width="40px" height="30px"/>
+</div><br><br>
+<!-- Languages End -->
