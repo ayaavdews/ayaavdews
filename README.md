@@ -65,3 +65,12 @@
      <a href="mailto:ayaavdews@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><br>
 <!-- Contact End -->
+
+
+<!-- Last Commit & Visitors Start -->
+<div align="center" valign="middle">
+<br>
+     <img src="https://img.shields.io/github/last-commit/ayaavdews/ayaavdews">
+     <img src="https://pageview.vercel.app/?github_user=ayaavdews">
+</div>
+<!-- Last Commit & Visitors End -->
